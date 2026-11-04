@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+.env
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+test-results/
+!docs/test-results/
+!docs/test-results/*.png
+!docs/test-results/*.json
+!docs/test-results/*.md
